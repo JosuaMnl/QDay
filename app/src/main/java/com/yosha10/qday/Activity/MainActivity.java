@@ -1,8 +1,10 @@
-package com.yosha10.qday;
+package com.yosha10.qday.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.yosha10.qday.R;
 
 public class MainActivity extends AppCompatActivity {
 
